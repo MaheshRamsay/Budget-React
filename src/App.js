@@ -7,7 +7,7 @@ import DisplayBalance from './components/DisplayBalance'
 import BalanceSegment from './components/BalanceSegment'
 import EntryList from './components/EntryList'
 import EditExpenseModal from './components/EditExpenseModal'
-
+//Redux
 function App() {
   const [entries, setEntries] = useState(initialEntries)
   
